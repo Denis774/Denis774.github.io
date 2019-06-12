@@ -1,0 +1,42 @@
+#header {
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}body {
+	background-color: white;
+	font-family: verdana, Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    }
+p {
+	color: black;
+}
+#main {
+	 background-color:lightgray;
+	 color:black;
+	 padding:20px;
+}
+#nav h4 {
+      color: blue;
+}
+#nav1 h4 {
+      color: blue;
+
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: auto;
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: lightgray;
+	text-align: center;
+}
